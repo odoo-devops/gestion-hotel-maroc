@@ -1,14 +1,5 @@
-[![Build Status](https://travis-ci.org/OCA/vertical-hotel.svg?branch=6.1)](https://travis-ci.org/OCA/vertical-hotel)
-[![Coverage Status](https://coveralls.io/repos/OCA/vertical-hotel/badge.png?branch=6.1)](https://coveralls.io/r/OCA/vertical-hotel?branch=6.1)
+Le logiciel de réservation Gestion Hotel Maroc PMS Hôtel a été créé pour rendre la gestion des hôteliers indépendants plus simple mais également plus efficace. La performance et le remplissage de votre hôtel passe par une optimisation de votre planning et des moyens engagés sur la durée. De plus, nos solutions de logiciel hôtelier vous permettent d’accéder à une meilleure rentabilité, en toute simplicité.
 
-# Vertical Hotel
+Grâce au PMS Hôtel Gestion Hotel Maroc, vous combinez le logiciel de gestion hôtelière et les logiciels de distribution sur internet (Channel Manager, Booking Engine) mais également des fonctionnalités efficaces et innovantes pour votre hôtel comme par exemple les modules de pré-check-in online et de paiement automatisé .
+Notre logiciel Hôtelier Gestion Hotel Maroc vous offre une nouvelle façon de travailler en tirant profit des nombreux avantages du Cloud : données sécurisées accessibles partout, tout le temps, depuis n’importe quel support !
 
-write me
-
-----
-
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
-
-http://odoo-community.org/
